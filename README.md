@@ -1,18 +1,17 @@
-# VPN IP Kazakhstan — Dr VPN
+# VPN IP Kazakhstan — Fast, Secure VPN for Kazakhstan
 
-**VPN IP Kazakhstan** is a fast, secure and free VPN for Android. Get a **Kazakhstan IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Kazakhstan** is a free, open-source, ad-free VPN app for Android, built for users in Kazakhstan. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Kazakhstan (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_kz_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-kazakhstan/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Kazakhstan IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Kazakhstan, Kazakhstan VPN, VPN IP Kazakhstan, Kazakhstan IP address, free VPN Kazakhstan, buy VPN Kazakhstan, fast VPN Kazakhstan, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Kazakhstan, free VPN Kazakhstan, fast VPN, VPN IP Kazakhstan, Android VPN, unblock websites Kazakhstan.</sub>
